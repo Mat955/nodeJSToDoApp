@@ -1,0 +1,23 @@
+{
+  "name": "nodejs2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mat955/nodeJSToDoApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mat955/nodeJSToDoApp/issues"
+  },
+  "homepage": "https://github.com/Mat955/nodeJSToDoApp#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "minimist": "^1.2.5"
+  }
+}
